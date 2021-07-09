@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Benifits of Gatsby.js
-date: 2021-07-09T14:37:39.729Z
+date: 2021-07-08T14:37:39.729Z
 ---
 Gatsby has lots of advantages:
 
